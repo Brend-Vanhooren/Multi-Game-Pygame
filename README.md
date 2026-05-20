@@ -19,6 +19,8 @@ This is a python game that uses pygame to show images. It has the folowing games
 
 ## Deployment
 
+Install all files (README not required) and keep them in the same structure as this repo. This is needed because otherwise the script will not find the games.
+
 This program requires pygame and numpy to be installed. At the time of writing, the newest python version that support this is 3.13
 
 To install the libraries, run the following commands:
